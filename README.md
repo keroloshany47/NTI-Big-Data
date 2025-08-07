@@ -1,4 +1,4 @@
-# 📊 Big Data Training – NTI 
+#  Big Data Training – NTI 
 
 This repository documents my hands-on journey through the **Big Data Summer Training Program** organized by **NTI** in collaboration with **ITIDA**.  
 The program diving deep into Big Data tools, platforms, and real-world applications.
