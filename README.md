@@ -26,8 +26,7 @@ This repo contains:
 6. **Spark + Flink** – Batch + Stream processing with in-memory computing
 7. **Flume + Kafka** – Data ingestion and real-time messaging pipelines
 8. **Elasticsearch** – Distributed search engine and analytics
-9. **Huawei MRS** – Full Big Data Platform on the cloud
-10. **Huawei DataArts Studio** – End-to-end data integration & analytics platform
+
 
 ---
 
