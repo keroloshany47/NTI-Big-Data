@@ -35,7 +35,7 @@ This repo contains:
 
 | Tool/Tech        | Use Case                         |
 |------------------|----------------------------------|
-| Linux,SQL,Python | Foundations for scripting &   querying |
+| Linux, SQL, Python | Foundations for scripting &querying |
 | HDFS             | Distributed data storage         |
 | Hive             | SQL-style querying               |
 | HBase            | NoSQL for large-scale datasets   |
